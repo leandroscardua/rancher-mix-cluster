@@ -5,8 +5,8 @@
       "iso_checksum": "none",
       "iso_url": "https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-live-server-amd64.iso",
 
-      "http_directory": "http-lx_cp",
-      "output_directory": "output-lx-cp",
+      "http_directory": "http_lx_cp",
+      "output_directory": "output_lx-cp",
       "vm_name": "lx-cp",
       "format": "qcow2",
       "cpus": "2",
