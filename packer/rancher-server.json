@@ -5,8 +5,8 @@
       "iso_checksum": "none",
       "iso_url": "https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-live-server-amd64.iso",
 
-      "http_directory": "http",
-      "output_directory": "lx-docker",
+      "http_directory": "http_lx-docker",
+      "output_directory": "output_lx-docker",
       "vm_name": "lx-docker",
       "format": "qcow2",
       "cpus": "2",
