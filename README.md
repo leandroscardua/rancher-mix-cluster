@@ -4,8 +4,16 @@
 
 # lx-docker
 
+Single-Node - Ubuntu 20.04 - Docker
+
 # lx-cp
+
+Control Plane - Ubuntu 20.04 - Containerd
 
 # lx-wk
 
+Worker -  Ubuntu 20.04 - Containerd
+
 # ws-wk
+
+Worker - Windows Server 2019/2022 - Containerd
