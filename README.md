@@ -16,4 +16,4 @@ Worker -  Ubuntu 20.04 - Containerd
 
 # ws-wk
 
-Worker - Windows Server 2019/2022 - Containerd
+Worker - Windows Server 2019 - Containerd
